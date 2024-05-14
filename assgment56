@@ -1,0 +1,10 @@
+ASSIGNEMNT 4
+8. Deleting Voting Pod
+Observation : asldfas;dlfjdask;lfa
+sdfals;kdfj;laksdfjdsa
+8. Deleting DB pod
+----------------
+root@ip-172-31-45-75:~# kubectl get po
+NAME                      READY   STATUS    RESTARTS   AGE
+db-58cc845644-rkwlc       1/1     Running   0          20h
+delte po, front working unix not runing
